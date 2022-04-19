@@ -1,0 +1,23 @@
+1. lý do lựa chọn đề tài
+2. mục tiêu
+3.giới hạn và phạm vi. để làm j, phạm vi ứng dụng . phần mềm đc sử dụng ở trong các đơn vị / tổ chức giáo dục
+
+
+2 cslt
+. dùng php , dùng cơ sở dũ liệu, mô hình MVC, bootstrap...
+3.yêu cầu hệ thống:
+-về nghiệp vụ dành cho quản trị viên
+có chức năng quản lý thêm sửa xóa...
+- chức năng
++giao diện: không phức tạp, dễ dàng sử dụng
++bảo mật: an toàn khi được lưu trên CSDL
++tương thích(phù hợp, thích hợp): với các trình duyệt phổ biến.
+-demo dự án
+4.kết luận
+kết quả đạt được:
+-đã xây dựng được một chương trình quản lý trường học, với giao diện dễ sử dụng đầy đủ các chức năng
+- hạn chế:
++chưa hoàn thiện được chức năng tìm kiếm
+-hướng phát triển: quản lý được điểm số
++ nâng cấp trang đăng nhập cho giáo viên và học sinh
++ Đây là toàn bộ dự án của e rất mong nhận được ý kiến và nhận xét của mọi người
