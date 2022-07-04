@@ -1,4 +1,5 @@
 <?php
+// http://localhost/module%202/school/index.php?controller=student&action=index
 //THONG TIN CSDL
 $host = 'localhost' ;
 $username = 'root';
